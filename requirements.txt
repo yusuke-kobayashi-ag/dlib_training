@@ -1,0 +1,15 @@
+# dlib顔特徴点検出器 再学習環境
+# Python 3.7以上推奨
+
+# 必須ライブラリ
+numpy
+Pillow
+
+
+# オプション（画像処理・可視化用）
+opencv-python
+matplotlib
+scikit-image
+
+# 開発・デバッグ用
+tqdm>=4.60.0
