@@ -18,7 +18,7 @@ import json
 
 def load_predictor_and_detector(model_path):
     """
-    学習済みモデルと顔検出器を読み込み
+    学習済みモとデル顔検出器を読み込み
     
     Args:
         model_path (str): 学習済み特徴点検出器のパス

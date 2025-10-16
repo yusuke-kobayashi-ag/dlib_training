@@ -19,6 +19,7 @@ import os
 from pathlib import Path
 
 
+
 def load_model_and_detector(model_path):
     """モデルと顔検出器を読み込み"""
     try:
